@@ -2,7 +2,7 @@
 
 ## Rust code
 
-```ru
+```rust
 fn largest<T>(list: &[T]) -> &T {
     let mut largest = &list[0];
 
